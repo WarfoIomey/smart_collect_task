@@ -122,6 +122,20 @@ cd backend
 pytest
 ```
 
+## Запуск проекта с помощью Makefile
+
+Список команд Makefile
+```bash
+make help
+```
+Для запуска проекта выполните команды
+```bash
+make up
+make migrate
+make collectstatic
+```
+
+
 ## Скриншоты Postman
 
 ![GET запрос](screenshot/image.png)
@@ -130,4 +144,4 @@ pytest
 ![GET по uid](screenshot/image-2.png)
 ![PATH запрос](screenshot/image-3.png)
 ![DELETE](screenshot/image-5.png)
-![Invalid POST](image-6.png)
+![Invalid POST](screenshot/image-6.png)
