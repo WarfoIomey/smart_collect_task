@@ -3,8 +3,6 @@ from rest_framework import serializers
 from payouts.models import PaymentMethodChoice, Payout
 
 
-
-
 class PayoutReadSerializer(serializers.ModelSerializer):
     """Сериализатор для выплат."""
 
