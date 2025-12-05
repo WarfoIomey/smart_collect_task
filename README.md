@@ -145,3 +145,11 @@ make collectstatic
 ![PATH запрос](screenshot/image-3.png)
 ![DELETE](screenshot/image-5.png)
 ![Invalid POST](screenshot/image-6.png)
+
+## Документация API
+
+Чтобы получить документацию SWAGGER или REDOC
+```
+http://localhost:8000/redoc/ 
+http://localhost:8000/swagger/
+```
