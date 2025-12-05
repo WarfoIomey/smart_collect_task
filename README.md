@@ -121,3 +121,13 @@ cd backend
 ```bash
 pytest
 ```
+
+## Скриншоты Postman
+
+![GET запрос](screenshot/image.png)
+![POST запрос](screenshot/image-1.png)
+![Worker](screenshot/image-4.png)
+![GET по uid](screenshot/image-2.png)
+![PATH запрос](screenshot/image-3.png)
+![DELETE](screenshot/image-5.png)
+![Invalid POST](image-6.png)
