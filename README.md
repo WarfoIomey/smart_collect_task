@@ -45,6 +45,10 @@ celery -A celery_app worker -l info
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-003366?logo=gnu&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![ReDoc](https://img.shields.io/badge/ReDoc-FF6F00?logo=read-the-docs&logoColor=white)
 
 
 ## Установка
