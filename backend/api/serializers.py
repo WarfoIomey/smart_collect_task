@@ -1,10 +1,8 @@
-from django.contrib.auth import get_user_model
 from rest_framework import serializers
 
 from payouts.models import PaymentMethodChoice, Payout
 
 
-User = get_user_model()
 
 
 class PayoutReadSerializer(serializers.ModelSerializer):
